@@ -12,3 +12,9 @@ To compile and run this application, you must have:
 - **CMake** (v3.16 or newer)
 
 ## Sample Interface (on Windows)
+
+### Application Interface
+<img width="796" height="609" alt="FrontUI" src="https://github.com/user-attachments/assets/2148407e-6aab-460c-94c4-3ad590248daa" />
+
+### End Result
+<img width="1180" height="626" alt="Info Extracted" src="https://github.com/user-attachments/assets/0db08e1f-5887-44ae-b79f-18c051ad737d" />
