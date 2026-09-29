@@ -1,6 +1,6 @@
 # Petrol Receipt Analyzer
 
-A cross-platform C++ desktop application featuring a multi-screen interface built using the **wxWidgets** GUI framework.
+A cross-platform C++ desktop application featuring a multi-screen interface built using the **wxWidgets** GUI framework. The application relies on a vision LLM model to analyze and extract informations from the provided image. The structure provided utilised a locally hosted LLM (Gemma4:26B model) using the OLLAMA platform to run the backend process.
 
 ## Prerequisites
 
